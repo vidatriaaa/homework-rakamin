@@ -69,4 +69,4 @@ yang telah dilakukan. Formulanya adalah jumlah customer yang cancel dibagi jumla
 seluruh customer kemudian dikali 100%.
 5. Bandingkan hasil output nomor 3 dan 4 untuk setiap tahunnya, dan tuliskan
 interpretasi-mu.
-Selamat mengerj
+
